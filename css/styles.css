@@ -81,6 +81,10 @@ a {
     line-height: 66px;
 }
 
+a:hover {
+    background-color: #8233E8;
+}
+
 section img {
     display: block;
     width: 792px;
