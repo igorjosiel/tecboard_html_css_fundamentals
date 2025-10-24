@@ -112,5 +112,27 @@ section img {
 
 /* Estilos mobile */
 @media (max-width: 375px) {
-    
+    header img {
+        margin: 32px 0 0 16px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+        width: 340px;
+        margin: 24px auto 40px;
+    }
+
+    a {
+        font-size: 20px;
+        width: 251px;
+    }
+
+    section img {
+        width: 340px;
+        height: 230px;
+    }
 }
