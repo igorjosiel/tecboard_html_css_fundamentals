@@ -1,3 +1,4 @@
+/* Definindo fontes */
 /* Poppins Regular */
 @font-face {
     font-family: "Poppins";
@@ -25,11 +26,13 @@
     font-display: swap;
 }
 
+/* Reset */
 * {
     padding: 0;
     margin: 0;
 }
 
+/* Estilos desktop */
 body {
     background-color: #0E1014;
 }
@@ -89,4 +92,25 @@ section img {
     display: block;
     width: 792px;
     height: 446px;
+}
+
+/* Estilos tablet */
+@media (max-width: 768px) {
+    header img {
+        margin: 65px 0 0 60px;
+    }
+
+    p {
+        width: 648px;
+        margin: 0 auto;
+    }
+
+    section img {
+        width: 100%;
+    }
+}
+
+/* Estilos mobile */
+@media (max-width: 375px) {
+    
 }
