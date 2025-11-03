@@ -86,6 +86,16 @@ Você pode visualizar o projeto hospedado no GitHub Pages:
 
 https://www.w3schools.com/html/html_intro.asp  
 https://www.w3schools.com/html/html_basic.asp  
-https://www.w3schools.com/html/html_headings.asp  
 https://www.w3schools.com/html/html_head.asp  
+https://www.w3schools.com/tags/tag_meta.asp  
+https://www.w3schools.com/html/html_page_title.asp  
+https://www.w3schools.com/html/html_headings.asp  
 https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo/task/210860  
+https://www.w3schools.com/tags/tag_p.asp  
+https://www.w3schools.com/tags/tag_br.asp  
+https://www.w3schools.com/tags/tag_b.asp  
+https://www.w3schools.com/tags/tag_strong.asp  
+https://www.w3schools.com/tags/tag_i.asp  
+https://www.w3schools.com/tags/tag_em.asp  
+https://www.w3schools.com/tags/tag_sup.asp  
+https://www.w3schools.com/tags/tag_sub.asp  
