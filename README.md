@@ -84,12 +84,15 @@ Você pode visualizar o projeto hospedado no GitHub Pages:
 
 ## ⚙️ Links Úteis
 
+### Principais tags HTML
 https://www.w3schools.com/html/html_intro.asp  
 https://www.w3schools.com/html/html_basic.asp  
-https://www.w3schools.com/html/html_head.asp  
+https://www.w3schools.com/tags/tag_doctype.asp  
+https://www.w3schools.com/tags/tag_head.asp  
+https://www.w3schools.com/tags/tag_title.asp  
+https://www.w3schools.com/tags/tag_body.asp  
 https://www.w3schools.com/tags/tag_meta.asp  
-https://www.w3schools.com/html/html_page_title.asp  
-https://www.w3schools.com/html/html_headings.asp  
+https://www.w3schools.com/tags/tag_hn.asp  
 https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo/task/210860  
 https://www.w3schools.com/tags/tag_p.asp  
 https://www.w3schools.com/tags/tag_br.asp  
@@ -99,3 +102,17 @@ https://www.w3schools.com/tags/tag_i.asp
 https://www.w3schools.com/tags/tag_em.asp  
 https://www.w3schools.com/tags/tag_sup.asp  
 https://www.w3schools.com/tags/tag_sub.asp  
+https://www.w3schools.com/tags/tag_hr.asp  
+https://www.w3schools.com/tags/tag_img.asp  
+https://www.w3schools.com/tags/tag_ol.asp  
+https://www.w3schools.com/tags/tag_ul.asp  
+https://www.w3schools.com/tags/tag_li.asp  
+https://www.w3schools.com/tags/tag_a.asp  
+
+### Banco de imagens
+https://unsplash.com/pt-br  
+https://www.pexels.com/pt-br  
+
+### Ferramentas para compressão de imagens
+https://www.gimp.org  
+https://tinypng.com  
