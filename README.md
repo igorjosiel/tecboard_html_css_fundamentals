@@ -29,6 +29,7 @@ tecboard_html_css_fundamentals/
 ├── img/  
 │ ├── logo-tecboard-branco.png  
 │ ├── celulares-sobrepostos-desktop.png  
+│ ├── captura-tecboard-desktop.png  
 ├── README.md  
 
 
@@ -62,7 +63,7 @@ Você pode visualizar o projeto hospedado no GitHub Pages:
 
 👉 **[Acesse aqui](https://igorjosiel.github.io/tecboard_html_css_fundamentals/)**
 
-![Preview do projeto](https://igorjosiel.github.io/tecboard_html_css_fundamentals/img/celulares-sobrepostos-desktop.png)
+![Preview do projeto - Desktop](img/captura-tecboard-desktop.png)
 
 ---
 
