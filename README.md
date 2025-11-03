@@ -64,6 +64,7 @@ Você pode visualizar o projeto hospedado no GitHub Pages:
 👉 **[Acesse aqui](https://igorjosiel.github.io/tecboard_html_css_fundamentals/)**
 
 ![Preview do projeto - Desktop](img/captura-tecboard-desktop.png)
+![Preview do projeto - Mobile](img/captura-tecboard-mobile.png)
 
 ---
 
