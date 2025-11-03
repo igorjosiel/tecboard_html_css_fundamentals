@@ -81,3 +81,11 @@ Você pode visualizar o projeto hospedado no GitHub Pages:
    cd tecboard_html_css_fundamentals
 
 3. Abra o arquivo index.html no navegador.
+
+## ⚙️ Links Úteis
+
+https://www.w3schools.com/html/html_intro.asp  
+https://www.w3schools.com/html/html_basic.asp  
+https://www.w3schools.com/html/html_headings.asp  
+https://www.w3schools.com/html/html_head.asp  
+https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo/task/210860  
