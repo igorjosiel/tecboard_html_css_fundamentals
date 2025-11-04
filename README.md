@@ -91,6 +91,7 @@ https://www.w3schools.com/tags/tag_doctype.asp
 https://www.w3schools.com/tags/tag_head.asp  
 https://www.w3schools.com/tags/tag_title.asp  
 https://www.w3schools.com/tags/tag_body.asp  
+https://www.w3schools.com/tags/tag_header.asp  
 https://www.w3schools.com/tags/tag_meta.asp  
 https://www.w3schools.com/tags/tag_hn.asp  
 https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo/task/210860  
@@ -108,6 +109,18 @@ https://www.w3schools.com/tags/tag_ol.asp
 https://www.w3schools.com/tags/tag_ul.asp  
 https://www.w3schools.com/tags/tag_li.asp  
 https://www.w3schools.com/tags/tag_a.asp  
+https://www.w3schools.com/tags/tag_code.asp  
+https://www.w3schools.com/tags/tag_nav.asp  
+https://www.w3schools.com/tags/tag_main.asp  
+https://www.w3schools.com/tags/tag_section.asp  
+https://www.w3schools.com/tags/tag_footer.asp  
+https://www.w3schools.com/tags/tag_div.asp  
+https://www.w3schools.com/tags/tag_span.asp  
+https://www.w3schools.com/tags/tag_article.asp  
+https://www.w3schools.com/tags/tag_figure.asp  
+https://www.w3schools.com/tags/tag_figcaption.asp  
+https://www.w3schools.com/tags/tag_link.asp  
+https://www.w3schools.com/tags/ref_standardattributes.asp  
 
 ### Banco de imagens
 https://unsplash.com/pt-br  
